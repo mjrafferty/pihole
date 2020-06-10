@@ -1,0 +1,10 @@
+[submodule "AdminLTE"]
+	path = AdminLTE
+	url = https://github.com/pi-hole/AdminLTE
+[submodule "Core"]
+	path = Core
+	url = https://github.com/pi-hole/pi-hole
+[submodule "FTL"]
+	path = FTL
+	url = git@github.com:mjrafferty/FTL
+	branch = master
